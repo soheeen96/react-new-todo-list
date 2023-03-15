@@ -1,4 +1,4 @@
-# react To Do List - 연습용
+# React To Do List - 연습용
 
 ### 리액트로 만들어보는 투두리스트
 
